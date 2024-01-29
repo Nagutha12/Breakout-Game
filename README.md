@@ -1,1 +1,1 @@
-# Breakout-Game
+In Breakout, a layer of bricks lines the top third of the screen and the goal is to destroy them all by repeatedly bouncing a ball off a paddle into them.This allows for students to collaborate and communicate with each other. Problem solving skills are also used as students complete various activities throughout the breakout game.
